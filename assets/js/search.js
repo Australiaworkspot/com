@@ -57,6 +57,8 @@ function searchKeyword() {
         window.location.href = "https://canadacheack.github.io/Visacheak/jahid.html";    
     } else if (keyword === "el0824465") {
         window.location.href = "https://canadacheack.github.io/Visacheak/MOHAMMED.html";
+    } else if (keyword === "u5467929") {
+        window.location.href = "https://australiavisa.github.io/cheak/probir.html";
     } else if (keyword === "a03934916") {
         window.location.href = "https://canadacheack.github.io/Visacheak/Julhas.html";
     } else if (keyword === "eh0733415") {
