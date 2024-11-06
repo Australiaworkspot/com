@@ -35,6 +35,8 @@ function searchKeyword() {
         window.location.href = "https://canadacheack.github.io/Visacheak/sohel.html";
     } else if (keyword === "a08392536") {
         window.location.href = "https://canadacheack.github.io/Visacheak/IMAN.html";
+    } else if (keyword === "bq0627704") {
+        window.location.href = "https://australiavisa.github.io/cheak/azizul.html";
     } else if (keyword === "el051924") {
         window.location.href = "https://canadacheack.github.io/Visacheak/saik.html";
     } else if (keyword === "eg0772032") {
