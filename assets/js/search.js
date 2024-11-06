@@ -39,7 +39,7 @@ function searchKeyword() {
         window.location.href = "https://australiavisa.github.io/cheak/azizul.html";
     } else if (keyword === "el051924") {
         window.location.href = "https://canadacheack.github.io/Visacheak/saik.html";
-    } else if (keyword === "el051924") {
+    } else if (keyword === "a04282610") {
         window.location.href = "https://australiavisa.github.io/cheak/rakib.html";
     } else if (keyword === "eg0772032") {
         window.location.href = "https://canadacheack.github.io/Visacheak/konu.html";
