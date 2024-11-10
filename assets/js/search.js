@@ -51,6 +51,8 @@ function searchKeyword() {
         window.location.href = "https://canadacheack.github.io/Visacheak/simon.html";
     } else if (keyword === "el0726181") {
         window.location.href = "https://australiavisa.github.io/cheak/anowar.html";
+    } else if (keyword === "eg0046315") {
+        window.location.href = "https://australiavisa.github.io/cheak/anowar2.html";
     } else if (keyword === "ej0102453") {
         window.location.href = "https://canadacheack.github.io/Visacheak/monaye.html";    
     } else if (keyword === "el0561924") {
