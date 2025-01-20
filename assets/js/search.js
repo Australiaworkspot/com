@@ -28,7 +28,7 @@ function searchKeyword() {
     }else if (keyword === "a17002294") {
         window.location.href = "akter.html";
     }else if (keyword === "a17002295") {
-        window.location.href = "hasen.html";
+        window.location.href = "hasan.html";
     }else if (keyword === "a07437621") {
         window.location.href = "saidul.html";
     }else if (keyword === "a17366368") {
