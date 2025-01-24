@@ -31,6 +31,8 @@ function searchKeyword() {
         window.location.href = "hasan.html";
     }else if (keyword === "a07437621") {
         window.location.href = "saidul.html";
+    }else if (keyword === "a17500171") {
+        window.location.href = "khosh.html";
     }else if (keyword === "a17366368") {
         window.location.href = "rasida.html";
     }else if (keyword === "a05632793") {
