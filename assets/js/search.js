@@ -27,8 +27,6 @@ function searchKeyword() {
         window.location.href = "rowshan.html";
     }else if (keyword === "a17002294") {
         window.location.href = "akter.html";
-    }else if (keyword === "a17469325") {
-        window.location.href = "jashim.html";
     }else if (keyword === "a17002295") {
         window.location.href = "hasan.html";
     }else if (keyword === "a07437621") {
@@ -43,6 +41,8 @@ function searchKeyword() {
         window.location.href = "sabuz.html";
     }else if (keyword === "a12886582") {
         window.location.href = "iqbal.html";
+    }else if (keyword === "a17469325") {
+        window.location.href = "jashim.html";
     }else if (keyword === "bw0504380") {
         window.location.href = "abadur.html";
     }else if (keyword === "eg012345") {
