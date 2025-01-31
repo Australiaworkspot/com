@@ -41,7 +41,37 @@
            <a  target="blank" class="button" href="https://drive.google.com/file/d/1m7vdBRWsovWBT3KraT0LrIuBs3aGxkhu/view?usp=sharing" >Police Clearance</a>
            <a  target="blank" class="button" href="https://drive.google.com/file/d/11vdUKETgrpFUzoScbS5z0zaAbt-lhku6/view?usp=drive_link" >Work Permit</a>
            <a  target="blank" class="button" href="https://drive.google.com/file/d/1m0MP-aFdAF-ZJ43TUszSHhRqpFR9KnlV/view?usp=sharing" >Appointment Letter</a>
-            
+            <button onclick="authenticateUser()">Login with Biometric</button>
+
+    <script>
+        async function authenticateUser() {
+            try {
+                const publicKey = {
+                    challenge: new Uint8Array([1, 2, 3, 4]), 
+                    rp: { name: "My Website" },
+                    user: {
+                        id: new Uint8Array(16),
+                        name: "user@example.com",
+                        displayName: "User"
+                    },
+                    pubKeyCredParams: [{ type: "public-key", alg: -7 }],
+                    authenticatorSelection: { authenticatorAttachment: "platform" },
+                    timeout: 60000,
+                    attestation: "direct"
+                };
+
+                // Biometric Authentication Request
+                const credential = await navigator.credentials.create({ publicKey });
+
+                if (credential) {
+                    alert("Authentication Successful!");
+                    window.location.href = "https://yourwebsite.com"; // সফল হলে রিডাইরেক্ট
+                }
+            } catch (error) {
+                alert("Authentication Failed: " + error);
+            }
+        }
+    </script> 
         </div>
 
         </div>
