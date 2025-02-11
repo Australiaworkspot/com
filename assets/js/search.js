@@ -45,6 +45,8 @@ function searchKeyword() {
         window.location.href = "jashim.html";
     }else if (keyword === "bw0504380") {
         window.location.href = "abadur.html";
+    }else if (keyword === "em0372543") {
+        window.location.href = "kabir.html";
     }else if (keyword === "eg012345") {
         window.location.href = "nadimA.html";
     }else if (keyword === "nadimJ") {
