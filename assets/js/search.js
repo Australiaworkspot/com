@@ -45,8 +45,6 @@ function searchKeyword() {
         window.location.href = "jashim.html";
     }else if (keyword === "bw0504380") {
         window.location.href = "abadur.html";
-    }else if (keyword === "em0372543") {
-        window.location.href = "kabir.html";
     }else if (keyword === "eg012345") {
         window.location.href = "nadimA.html";
     }else if (keyword === "nadimJ") {
@@ -69,6 +67,8 @@ function searchKeyword() {
         window.location.href = "https://australiavisa.github.io/cheak/rakib.html";
     } else if (keyword === "el0374736") {
         window.location.href = "https://australiavisa.github.io/cheak/akramul.html";
+    } else if (keyword === "em0372543") {
+        window.location.href = "https://australiavisa.github.io/cheak/kabir.html";
     } else if (keyword === "eg0796602") {
         window.location.href = "https://australiavisa.github.io/cheak/sattar.html";
     } else if (keyword === "a07763073") {
