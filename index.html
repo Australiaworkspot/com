@@ -995,7 +995,25 @@
 				.catch(error => console.error('Error!', error.message))
 			})
 		</script>
+	<script> 
 
+    function redirect(){
+     var test =  document.querySelector('#passport');
+     if(test.value == "EK0187677"){
+             window.location.href= "ramjan.html"; 
+     }else if (test.value == "em0372543"){
+         window.location.href = "kabir.html"
+     }
+         
+        
+        
+         
+     else{
+          alert("invalid Passport")
+     }
+       }
+    
+</script>
 
 		
 	</body>
