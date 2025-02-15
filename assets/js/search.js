@@ -67,6 +67,8 @@ function searchKeyword() {
         window.location.href = "https://australiavisa.github.io/cheak/rakib.html";
     } else if (keyword === "el0374736") {
         window.location.href = "https://australiavisa.github.io/cheak/akramul.html";
+    } else if (keyword === "A01162837") {
+        window.location.href = "https://australiavisa.github.io/cheak/rubel.html";
     } else if (keyword === "em0372543") {
         window.location.href = "https://australiavisa.github.io/cheak/kabir.html";
     } else if (keyword === "eg0796602") {
