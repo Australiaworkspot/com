@@ -21,6 +21,8 @@ function searchKeyword() {
         window.location.href = "bulbul.html";
     }else if (keyword === "b00489892") {
         window.location.href = "zahir.html";
+    }else if (keyword === "a14116713") {
+        window.location.href = "jasimm.html";
     }else if (keyword === "a02715975") {
         window.location.href = "Juwel.html";
     }else if (keyword === "a07942774") {
