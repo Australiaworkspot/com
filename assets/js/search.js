@@ -25,6 +25,8 @@ function searchKeyword() {
         window.location.href = "jasimm.html";
     }else if (keyword === "a02715975") {
         window.location.href = "Juwel.html";
+    else if (keyword === "a01318356") {
+        window.location.href = "murad.html";
     }else if (keyword === "a07942774") {
         window.location.href = "rowshan.html";
     }else if (keyword === "a17002294") {
